@@ -20,4 +20,4 @@ A full-stack Netflix clone application that replicates key features of Netflix, 
 
 ### Screenshots
 
-![Alt text](screenshot-for-readme.png)
+<img src="public/screenshot-for-readme.png" width="300" />
