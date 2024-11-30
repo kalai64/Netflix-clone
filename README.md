@@ -1,20 +1,23 @@
-<h1 align="center">MERN Netflix Clone 🎬</h1>
+<h1 align="center">Netflix Clone 🎬</h1>
 
+A full-stack Netflix clone application that replicates key features of Netflix, including a dynamic user interface and backend functionalities.
 
-About This Course:
+### Features:
 
--   ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Tailwind
--   🔐 Authentication with JWT
--   📱 Responsive UI
--   🎬 Fetch Movies and Tv Show
--   🔎 Search for Actors and Movies
--   🎥 Watch Trailers
--   🔥 Fetch Search History
--   🐱‍👤 Get Similar Movies/Tv Shows
--   💙 Awesome Landing Page
--   🌐 Deployment
--   🚀 And Many More Cool Features
--   ✅ This is a lot of work. Support my work by subscribing to the [Channel](https://www.youtube.com/@asaprogrammer_)
+- User Authentication: Secure login and registration functionality.
+- Movie/Show Listings: Fetch and display movies/shows dynamically from a database.
+- Responsive Design: Optimized for all devices using Tailwind CSS.
+- Interactive UI: Smooth animations and interactive elements for enhanced user experience.
+- CRUD Operations: Manage user data and watchlist items.
+- Backend API: Built with Node.js and Express.js to handle server-side logic.
 
+### Tech Stack
 
+- Frontend: React.js, Tailwind CSS
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Styling: Tailwind CSS
 
+### Screenshots
+
+![Alt text](screenshot-for-readme.png)
